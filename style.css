@@ -40,3 +40,20 @@
 .catagories img{
     width: 100px
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-radius: 10px;
+    border-top: none;
+    
+}
+#Contacts{
+    height: 300px;
+}
+#Contacts h6{
+    color: gray;
+}
